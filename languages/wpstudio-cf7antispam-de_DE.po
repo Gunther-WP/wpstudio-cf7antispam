@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Studio CF7Antispam\n"
+"POT-Creation-Date: 2025-04-25 16:29+0200\n"
+"PO-Revision-Date: 2025-05-09 09:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpstudio-cf7antispam.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.7.2; wp-6.8.1"
+
+#: admin/wpstudio-cf7antispam-admin.php:68 wpstudio-cf7antispam.php:61
+msgid "Fill in (anti-spam protection):"
+msgstr "Bitte folgende Zeichen eintragen (Spam-Schutz):"
+
+#: admin/wpstudio-cf7antispam-admin.php:69
+msgid "The characters entered are not correct."
+msgstr "Die eingetragenen Zeichen sind nicht richtig."
+
+#: wpstudio-cf7antispam.php:59
+msgid "Please select the tables that you want to update."
+msgstr "Bitte wählen Sie die Tabellen aus, die Sie aktualisieren möchten."
+
+#. Description of the plugin/theme
+#: wpstudio-cf7antispam.php:63
+msgid "A plugin for CF7, Antispam Contact Form 7"
+msgstr "Ein Plugin für CF7, Antispam Contact Form 7"
+
+#: wpstudio-cf7antispam.php:91
+msgid "Antispam"
+msgstr "Antispam"
+
+#: wpstudio-cf7antispam.php:99
+msgid "Antispam field"
+msgstr "Antispam Feld"
+
+#: wpstudio-cf7antispam.php:100
+msgid "Antispam field form-tag generator"
+msgstr "Antispam Fomrular Generator"
+
+#: wpstudio-cf7antispam.php:101
+msgid "Generate a form-tag for a wpsantispam button."
+msgstr "Zeige ein Anti-Spam Feld für das Fomrular an."
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Studio CF7Antispam"
+msgstr "WP-Studio CF7Antispam"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wp-studio.org/plugins/wpstudio-cf7antispam"
+msgstr "https://www.wp-studio.org/plugins/wpstudio-cf7antispam"
+
+#. Author of the plugin/theme
+msgid "Gunther Schöbinger"
+msgstr "Gunther Schöbinger"
+
+#. Author URI of the plugin/theme
+msgid "https://www.wp-studio.org"
+msgstr "https://www.wp-studio.org"
